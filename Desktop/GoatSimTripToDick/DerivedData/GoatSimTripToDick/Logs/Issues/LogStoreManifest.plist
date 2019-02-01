@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0E0EDEA8-BF0B-4C28-95A7-FC90F6437664</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>0E0EDEA8-BF0B-4C28-95A7-FC90F6437664.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>GoatSimTripToDick-csqecptxopxxojgcohrqwvcaencs</string>
+			<key>timeStartedRecording</key>
+			<real>570742287.80084205</real>
+			<key>timeStoppedRecording</key>
+			<real>570742295.11289704</real>
+			<key>title</key>
+			<string>Build target GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>0E0EDEA8-BF0B-4C28-95A7-FC90F6437664</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

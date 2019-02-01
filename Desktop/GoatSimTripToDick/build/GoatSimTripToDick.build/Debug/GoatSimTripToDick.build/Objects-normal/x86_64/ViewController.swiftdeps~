@@ -1,0 +1,428 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "17GoatSimTripToDick14ViewControllerC"
+provides-member:
+- ["17GoatSimTripToDick14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "skView"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "GKScene"
+- !private "GameScene"
+- "NSViewController"
+- "SKView"
+- !private "StringLiteralType"
+- "ViewController"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "GKScene"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "ignoresSiblingOrder"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "presentScene"]
+- !private ["s7CVarArgP", "rootNode"]
+- !private ["s7CVarArgP", "scaleMode"]
+- !private ["s7CVarArgP", "showsFPS"]
+- !private ["s7CVarArgP", "showsNodeCount"]
+- !private ["s7CVarArgP", "skView"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "GKScene"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "presentScene"]
+- !private ["s28CustomDebugStringConvertibleP", "rootNode"]
+- !private ["s28CustomDebugStringConvertibleP", "scaleMode"]
+- !private ["s28CustomDebugStringConvertibleP", "showsFPS"]
+- !private ["s28CustomDebugStringConvertibleP", "showsNodeCount"]
+- !private ["s28CustomDebugStringConvertibleP", "skView"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "GKScene"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "presentScene"]
+- !private ["s23CustomStringConvertibleP", "rootNode"]
+- !private ["s23CustomStringConvertibleP", "scaleMode"]
+- !private ["s23CustomStringConvertibleP", "showsFPS"]
+- !private ["s23CustomStringConvertibleP", "showsNodeCount"]
+- !private ["s23CustomStringConvertibleP", "skView"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "GKScene"]
+- ["SQ", ""]
+- !private ["SQ", "aspectFill"]
+- !private ["SQ", "ignoresSiblingOrder"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "presentScene"]
+- !private ["SQ", "rootNode"]
+- !private ["SQ", "scaleMode"]
+- !private ["SQ", "showsFPS"]
+- !private ["SQ", "showsNodeCount"]
+- !private ["SQ", "skView"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So7GKSceneC", "init"]
+- !private ["So7GKSceneC", "rootNode"]
+- !private ["So19GKSceneRootNodeTypeP", "scaleMode"]
+- !private ["17GoatSimTripToDick9GameSceneC", "scaleMode"]
+- !private ["SH", "GKScene"]
+- ["SH", ""]
+- !private ["SH", "aspectFill"]
+- !private ["SH", "ignoresSiblingOrder"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "presentScene"]
+- !private ["SH", "rootNode"]
+- !private ["SH", "scaleMode"]
+- !private ["SH", "showsFPS"]
+- !private ["SH", "showsNodeCount"]
+- !private ["SH", "skView"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So22NSAccessibilityElementP", "ignoresSiblingOrder"]
+- !private ["So22NSAccessibilityElementP", "presentScene"]
+- !private ["So22NSAccessibilityElementP", "showsFPS"]
+- !private ["So22NSAccessibilityElementP", "showsNodeCount"]
+- !private ["So15NSAccessibilityP", "ignoresSiblingOrder"]
+- !private ["So15NSAccessibilityP", "presentScene"]
+- !private ["So15NSAccessibilityP", "showsFPS"]
+- !private ["So15NSAccessibilityP", "showsNodeCount"]
+- !private ["So29NSAnimatablePropertyContainerP", "ignoresSiblingOrder"]
+- !private ["So29NSAnimatablePropertyContainerP", "presentScene"]
+- !private ["So29NSAnimatablePropertyContainerP", "showsFPS"]
+- !private ["So29NSAnimatablePropertyContainerP", "showsNodeCount"]
+- !private ["So25NSAppearanceCustomizationP", "ignoresSiblingOrder"]
+- !private ["So25NSAppearanceCustomizationP", "presentScene"]
+- !private ["So25NSAppearanceCustomizationP", "showsFPS"]
+- !private ["So25NSAppearanceCustomizationP", "showsNodeCount"]
+- !private ["So8NSCodingP", "GKScene"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "ignoresSiblingOrder"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "presentScene"]
+- !private ["So8NSCodingP", "rootNode"]
+- !private ["So8NSCodingP", "scaleMode"]
+- !private ["So8NSCodingP", "showsFPS"]
+- !private ["So8NSCodingP", "showsNodeCount"]
+- !private ["So8NSCodingP", "skView"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "rootNode"]
+- !private ["So9NSCopyingP", "scaleMode"]
+- !private ["So21NSDraggingDestinationP", "ignoresSiblingOrder"]
+- !private ["So21NSDraggingDestinationP", "presentScene"]
+- !private ["So21NSDraggingDestinationP", "showsFPS"]
+- !private ["So21NSDraggingDestinationP", "showsNodeCount"]
+- !private ["So8NSEditorP", "GKScene"]
+- ["So8NSEditorP", ""]
+- !private ["So8NSEditorP", "init"]
+- !private ["So8NSEditorP", "init"]
+- !private ["So8NSEditorP", "skView"]
+- !private ["So8NSEditorP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "GKScene"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "skView"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So8NSObjectC", "GKScene"]
+- !private ["So8NSObjectC", "GameScene"]
+- ["So8NSObjectC", "SKView"]
+- !private ["So8NSObjectC", "ignoresSiblingOrder"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "presentScene"]
+- !private ["So8NSObjectC", "rootNode"]
+- !private ["So8NSObjectC", "scaleMode"]
+- !private ["So8NSObjectC", "showsFPS"]
+- !private ["So8NSObjectC", "showsNodeCount"]
+- ["So8NSObjectC", "skView"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "GKScene"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "ignoresSiblingOrder"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "presentScene"]
+- !private ["So8NSObjectP", "rootNode"]
+- !private ["So8NSObjectP", "scaleMode"]
+- !private ["So8NSObjectP", "showsFPS"]
+- !private ["So8NSObjectP", "showsNodeCount"]
+- !private ["So8NSObjectP", "skView"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So11NSResponderC", "GKScene"]
+- !private ["So11NSResponderC", "GameScene"]
+- ["So11NSResponderC", "SKView"]
+- !private ["So11NSResponderC", "ignoresSiblingOrder"]
+- ["So11NSResponderC", "init"]
+- !private ["So11NSResponderC", "init"]
+- !private ["So11NSResponderC", "presentScene"]
+- !private ["So11NSResponderC", "scaleMode"]
+- !private ["So11NSResponderC", "showsFPS"]
+- !private ["So11NSResponderC", "showsNodeCount"]
+- ["So11NSResponderC", "skView"]
+- ["So11NSResponderC", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "ignoresSiblingOrder"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "presentScene"]
+- !private ["So14NSSecureCodingP", "rootNode"]
+- !private ["So14NSSecureCodingP", "scaleMode"]
+- !private ["So14NSSecureCodingP", "showsFPS"]
+- !private ["So14NSSecureCodingP", "showsNodeCount"]
+- !private ["So17NSSeguePerformingP", "GKScene"]
+- ["So17NSSeguePerformingP", ""]
+- !private ["So17NSSeguePerformingP", "init"]
+- !private ["So17NSSeguePerformingP", "init"]
+- !private ["So17NSSeguePerformingP", "skView"]
+- !private ["So17NSSeguePerformingP", "viewDidLoad"]
+- !private ["So30NSStandardKeyBindingRespondingP", "GKScene"]
+- ["So30NSStandardKeyBindingRespondingP", ""]
+- !private ["So30NSStandardKeyBindingRespondingP", "ignoresSiblingOrder"]
+- !private ["So30NSStandardKeyBindingRespondingP", "init"]
+- !private ["So30NSStandardKeyBindingRespondingP", "init"]
+- !private ["So30NSStandardKeyBindingRespondingP", "presentScene"]
+- !private ["So30NSStandardKeyBindingRespondingP", "scaleMode"]
+- !private ["So30NSStandardKeyBindingRespondingP", "showsFPS"]
+- !private ["So30NSStandardKeyBindingRespondingP", "showsNodeCount"]
+- !private ["So30NSStandardKeyBindingRespondingP", "skView"]
+- !private ["So30NSStandardKeyBindingRespondingP", "viewDidLoad"]
+- !private ["So18NSTouchBarProviderP", "GKScene"]
+- ["So18NSTouchBarProviderP", ""]
+- !private ["So18NSTouchBarProviderP", "ignoresSiblingOrder"]
+- !private ["So18NSTouchBarProviderP", "init"]
+- !private ["So18NSTouchBarProviderP", "init"]
+- !private ["So18NSTouchBarProviderP", "presentScene"]
+- !private ["So18NSTouchBarProviderP", "scaleMode"]
+- !private ["So18NSTouchBarProviderP", "showsFPS"]
+- !private ["So18NSTouchBarProviderP", "showsNodeCount"]
+- !private ["So18NSTouchBarProviderP", "skView"]
+- !private ["So18NSTouchBarProviderP", "viewDidLoad"]
+- !private ["So23NSUserActivityRestoringP", "GKScene"]
+- ["So23NSUserActivityRestoringP", ""]
+- !private ["So23NSUserActivityRestoringP", "ignoresSiblingOrder"]
+- !private ["So23NSUserActivityRestoringP", "init"]
+- !private ["So23NSUserActivityRestoringP", "init"]
+- !private ["So23NSUserActivityRestoringP", "presentScene"]
+- !private ["So23NSUserActivityRestoringP", "scaleMode"]
+- !private ["So23NSUserActivityRestoringP", "showsFPS"]
+- !private ["So23NSUserActivityRestoringP", "showsNodeCount"]
+- !private ["So23NSUserActivityRestoringP", "skView"]
+- !private ["So23NSUserActivityRestoringP", "viewDidLoad"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "GKScene"]
+- ["So33NSUserInterfaceItemIdentificationP", ""]
+- !private ["So33NSUserInterfaceItemIdentificationP", "ignoresSiblingOrder"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "init"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "init"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "presentScene"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "showsFPS"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "showsNodeCount"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "skView"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "viewDidLoad"]
+- !private ["So6NSViewC", "ignoresSiblingOrder"]
+- !private ["So6NSViewC", "presentScene"]
+- !private ["So6NSViewC", "showsFPS"]
+- !private ["So6NSViewC", "showsNodeCount"]
+- !private ["So16NSViewControllerC", "GKScene"]
+- !private ["So16NSViewControllerC", "GameScene"]
+- ["So16NSViewControllerC", "SKView"]
+- ["So16NSViewControllerC", ""]
+- ["So16NSViewControllerC", "init"]
+- !private ["So16NSViewControllerC", "init"]
+- ["So16NSViewControllerC", "skView"]
+- ["So16NSViewControllerC", "viewDidLoad"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "aspectFill"]
+- !private ["So12SKEffectNodeC", "scaleMode"]
+- !private ["So6SKNodeC", "scaleMode"]
+- !private ["So7SKSceneC", "scaleMode"]
+- !private ["So16SKSceneScaleModeV", "aspectFill"]
+- !private ["So6SKViewC", "ignoresSiblingOrder"]
+- !private ["So6SKViewC", "presentScene"]
+- !private ["So6SKViewC", "showsFPS"]
+- !private ["So6SKViewC", "showsNodeCount"]
+- !private ["So10SKWarpableP", "scaleMode"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["17GoatSimTripToDick14ViewControllerC", "GKScene"]
+- !private ["17GoatSimTripToDick14ViewControllerC", "GameScene"]
+- ["17GoatSimTripToDick14ViewControllerC", "SKView"]
+- ["17GoatSimTripToDick14ViewControllerC", "init"]
+- ["17GoatSimTripToDick14ViewControllerC", "skView"]
+- ["17GoatSimTripToDick14ViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "ignoresSiblingOrder"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "presentScene"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showsFPS"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "showsNodeCount"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GKScene"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ignoresSiblingOrder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentScene"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootNode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scaleMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsFPS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsNodeCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "skView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So7GKSceneC"
+- !private "So19GKSceneRootNodeTypeP"
+- !private "17GoatSimTripToDick9GameSceneC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So22NSAccessibilityElementP"
+- !private "So15NSAccessibilityP"
+- !private "So29NSAnimatablePropertyContainerP"
+- !private "So25NSAppearanceCustomizationP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSDraggingDestinationP"
+- "So8NSEditorP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So11NSResponderC"
+- !private "So14NSSecureCodingP"
+- "So17NSSeguePerformingP"
+- "So30NSStandardKeyBindingRespondingP"
+- "So18NSTouchBarProviderP"
+- "So23NSUserActivityRestoringP"
+- "So33NSUserInterfaceItemIdentificationP"
+- !private "So6NSViewC"
+- "So16NSViewControllerC"
+- !private "Sm"
+- !private "SY"
+- !private "So12SKEffectNodeC"
+- !private "So6SKNodeC"
+- !private "So7SKSceneC"
+- !private "So16SKSceneScaleModeV"
+- !private "So6SKViewC"
+- !private "So10SKWarpableP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "17GoatSimTripToDick14ViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SceneKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SpriteKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/GameplayKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/GameplayKit.framework/Headers/GameplayKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "cca29445b18534076f9dd6540827f09c"

@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>023005C8-CAFB-4FF2-998D-7BEF8482D688</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>023005C8-CAFB-4FF2-998D-7BEF8482D688.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740007.02473104</real>
+			<key>timeStoppedRecording</key>
+			<real>570740013.66040599</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>023005C8-CAFB-4FF2-998D-7BEF8482D688</string>
+		</dict>
+		<key>049CB9EF-17EC-41AA-9E2A-7E95F54A49CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>049CB9EF-17EC-41AA-9E2A-7E95F54A49CE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741682.51662099</real>
+			<key>timeStoppedRecording</key>
+			<real>570741689.11429799</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>049CB9EF-17EC-41AA-9E2A-7E95F54A49CE</string>
+		</dict>
+		<key>0BA9FE32-5B4A-4ED9-89AA-7878123DABB4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0BA9FE32-5B4A-4ED9-89AA-7878123DABB4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742173.12917697</real>
+			<key>timeStoppedRecording</key>
+			<real>570742178.76338303</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>0BA9FE32-5B4A-4ED9-89AA-7878123DABB4</string>
+		</dict>
+		<key>0EA7F828-4EAE-4CA3-A529-6DA5AEA8111B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EA7F828-4EAE-4CA3-A529-6DA5AEA8111B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742244.41153896</real>
+			<key>timeStoppedRecording</key>
+			<real>570742250.17475498</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>0EA7F828-4EAE-4CA3-A529-6DA5AEA8111B</string>
+		</dict>
+		<key>1D85A28C-24FE-442F-8035-B139318F41FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D85A28C-24FE-442F-8035-B139318F41FF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742195.72435296</real>
+			<key>timeStoppedRecording</key>
+			<real>570742201.17189002</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>1D85A28C-24FE-442F-8035-B139318F41FF</string>
+		</dict>
+		<key>2A389C74-B3F6-444A-A49B-D63AA9B065F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A389C74-B3F6-444A-A49B-D63AA9B065F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740225.21702695</real>
+			<key>timeStoppedRecording</key>
+			<real>570740225.86628497</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>2A389C74-B3F6-444A-A49B-D63AA9B065F0</string>
+		</dict>
+		<key>2DB2C3DE-278F-4B1A-A9CA-CA78A8638E78</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DB2C3DE-278F-4B1A-A9CA-CA78A8638E78.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741793.11661804</real>
+			<key>timeStoppedRecording</key>
+			<real>570741798.08757997</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>2DB2C3DE-278F-4B1A-A9CA-CA78A8638E78</string>
+		</dict>
+		<key>31688864-1ACD-4DC2-B766-D499597A62A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31688864-1ACD-4DC2-B766-D499597A62A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741622.56807804</real>
+			<key>timeStoppedRecording</key>
+			<real>570741628.79227805</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>31688864-1ACD-4DC2-B766-D499597A62A9</string>
+		</dict>
+		<key>322D4C2E-9249-4D61-80E6-21783E2C175A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>322D4C2E-9249-4D61-80E6-21783E2C175A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742337.78011501</real>
+			<key>timeStoppedRecording</key>
+			<real>570742338.44906998</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>322D4C2E-9249-4D61-80E6-21783E2C175A</string>
+		</dict>
+		<key>37D1CAEE-E9D1-4F23-A93E-EB6F5C741200</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37D1CAEE-E9D1-4F23-A93E-EB6F5C741200.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737703.37281597</real>
+			<key>timeStoppedRecording</key>
+			<real>570737708.18171096</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>37D1CAEE-E9D1-4F23-A93E-EB6F5C741200</string>
+		</dict>
+		<key>3CE3FA7F-C21B-4DCF-AA85-AAB523662DBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CE3FA7F-C21B-4DCF-AA85-AAB523662DBC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737624.02976894</real>
+			<key>timeStoppedRecording</key>
+			<real>570737630.66581094</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>3CE3FA7F-C21B-4DCF-AA85-AAB523662DBC</string>
+		</dict>
+		<key>42102ABC-AD68-4407-8DD7-F9E1E1634649</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>42102ABC-AD68-4407-8DD7-F9E1E1634649.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740363.87904203</real>
+			<key>timeStoppedRecording</key>
+			<real>570740369.58604801</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>42102ABC-AD68-4407-8DD7-F9E1E1634649</string>
+		</dict>
+		<key>4422102A-3F3E-4202-80F6-4526D7F51943</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4422102A-3F3E-4202-80F6-4526D7F51943.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741777.09372604</real>
+			<key>timeStoppedRecording</key>
+			<real>570741782.71402395</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>4422102A-3F3E-4202-80F6-4526D7F51943</string>
+		</dict>
+		<key>445CF9F9-442F-4BE2-932D-B97EFB3DBAA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>445CF9F9-442F-4BE2-932D-B97EFB3DBAA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570739974.75970399</real>
+			<key>timeStoppedRecording</key>
+			<real>570739981.25248396</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>445CF9F9-442F-4BE2-932D-B97EFB3DBAA8</string>
+		</dict>
+		<key>4723E702-C26D-42CE-98F5-22CC11025593</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4723E702-C26D-42CE-98F5-22CC11025593.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738941.36817598</real>
+			<key>timeStoppedRecording</key>
+			<real>570738954.84924304</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>4723E702-C26D-42CE-98F5-22CC11025593</string>
+		</dict>
+		<key>4BF328BD-E62A-405B-A16B-96149B2BE5BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4BF328BD-E62A-405B-A16B-96149B2BE5BF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570739533.296049</real>
+			<key>timeStoppedRecording</key>
+			<real>570739534.08529902</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>4BF328BD-E62A-405B-A16B-96149B2BE5BF</string>
+		</dict>
+		<key>5284BA32-035E-4DD0-8DDF-E637544BF5F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5284BA32-035E-4DD0-8DDF-E637544BF5F0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737163.56106901</real>
+			<key>timeStoppedRecording</key>
+			<real>570737169.17727101</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>5284BA32-035E-4DD0-8DDF-E637544BF5F0</string>
+		</dict>
+		<key>561CD004-6D1E-430C-A694-8E5A7230FD97</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>561CD004-6D1E-430C-A694-8E5A7230FD97.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737009.28625298</real>
+			<key>timeStoppedRecording</key>
+			<real>570737014.77149296</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>561CD004-6D1E-430C-A694-8E5A7230FD97</string>
+		</dict>
+		<key>5650EE93-BC26-4F13-B561-D6A8504B335B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5650EE93-BC26-4F13-B561-D6A8504B335B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570736858.03381598</real>
+			<key>timeStoppedRecording</key>
+			<real>570736866.71804702</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>5650EE93-BC26-4F13-B561-D6A8504B335B</string>
+		</dict>
+		<key>57B71A0F-56FD-4D8D-ACE5-8592FB547862</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57B71A0F-56FD-4D8D-ACE5-8592FB547862.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742224.22572398</real>
+			<key>timeStoppedRecording</key>
+			<real>570742229.15061295</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>57B71A0F-56FD-4D8D-ACE5-8592FB547862</string>
+		</dict>
+		<key>5A963C21-353F-4307-AB52-0B310FDDC838</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A963C21-353F-4307-AB52-0B310FDDC838.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740542.73589694</real>
+			<key>timeStoppedRecording</key>
+			<real>570740547.46265602</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>5A963C21-353F-4307-AB52-0B310FDDC838</string>
+		</dict>
+		<key>5F50ED97-4567-406F-9E47-C3BD2D09B288</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F50ED97-4567-406F-9E47-C3BD2D09B288.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741733.34512305</real>
+			<key>timeStoppedRecording</key>
+			<real>570741739.48116398</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>5F50ED97-4567-406F-9E47-C3BD2D09B288</string>
+		</dict>
+		<key>5FD87D27-0458-4A94-957E-8826EA7B75DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FD87D27-0458-4A94-957E-8826EA7B75DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741712.32249105</real>
+			<key>timeStoppedRecording</key>
+			<real>570741717.14919305</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>5FD87D27-0458-4A94-957E-8826EA7B75DA</string>
+		</dict>
+		<key>6688329B-03F0-458D-8046-663415A93218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6688329B-03F0-458D-8046-663415A93218.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740703.71604705</real>
+			<key>timeStoppedRecording</key>
+			<real>570740708.265154</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>6688329B-03F0-458D-8046-663415A93218</string>
+		</dict>
+		<key>6928199F-A4B8-495B-A020-3129D85C5E6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6928199F-A4B8-495B-A020-3129D85C5E6F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740342.72587299</real>
+			<key>timeStoppedRecording</key>
+			<real>570740349.25717998</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>6928199F-A4B8-495B-A020-3129D85C5E6F</string>
+		</dict>
+		<key>6BA9A18A-906E-4F94-9033-7490E2A81C80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BA9A18A-906E-4F94-9033-7490E2A81C80.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740763.17182505</real>
+			<key>timeStoppedRecording</key>
+			<real>570740768.81299603</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>6BA9A18A-906E-4F94-9033-7490E2A81C80</string>
+		</dict>
+		<key>6EF15310-5AA9-491B-811F-3CEED8002487</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EF15310-5AA9-491B-811F-3CEED8002487.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741593.23591197</real>
+			<key>timeStoppedRecording</key>
+			<real>570741599.43520999</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>6EF15310-5AA9-491B-811F-3CEED8002487</string>
+		</dict>
+		<key>6F9FB6AE-B408-4695-B702-767F91A62E2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F9FB6AE-B408-4695-B702-767F91A62E2A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737789.30470395</real>
+			<key>timeStoppedRecording</key>
+			<real>570737790.127563</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>6F9FB6AE-B408-4695-B702-767F91A62E2A</string>
+		</dict>
+		<key>71020D34-C724-42B5-805A-6A22A4A1EDAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71020D34-C724-42B5-805A-6A22A4A1EDAE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740159.93221796</real>
+			<key>timeStoppedRecording</key>
+			<real>570740161.90652204</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>71020D34-C724-42B5-805A-6A22A4A1EDAE</string>
+		</dict>
+		<key>74D057EF-44BE-45CF-A593-903666D8EC4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74D057EF-44BE-45CF-A593-903666D8EC4B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570739541.50296795</real>
+			<key>timeStoppedRecording</key>
+			<real>570739542.84883106</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>74D057EF-44BE-45CF-A593-903666D8EC4B</string>
+		</dict>
+		<key>7A8F15EE-1840-45E8-95CF-D98E90CC5474</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A8F15EE-1840-45E8-95CF-D98E90CC5474.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740516.83298194</real>
+			<key>timeStoppedRecording</key>
+			<real>570740517.13946295</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>7A8F15EE-1840-45E8-95CF-D98E90CC5474</string>
+		</dict>
+		<key>7AA1B53D-7A57-4DCA-94D7-335FAB98E29B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AA1B53D-7A57-4DCA-94D7-335FAB98E29B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740253.21099806</real>
+			<key>timeStoppedRecording</key>
+			<real>570740254.04674494</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>7AA1B53D-7A57-4DCA-94D7-335FAB98E29B</string>
+		</dict>
+		<key>82980442-184F-46D8-8043-28FFB4919E7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82980442-184F-46D8-8043-28FFB4919E7A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740496.64416599</real>
+			<key>timeStoppedRecording</key>
+			<real>570740501.96691406</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>82980442-184F-46D8-8043-28FFB4919E7A</string>
+		</dict>
+		<key>88864C0E-CE7A-4EB5-A245-632FE8A465F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88864C0E-CE7A-4EB5-A245-632FE8A465F9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738008.41379905</real>
+			<key>timeStoppedRecording</key>
+			<real>570738008.64146698</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>88864C0E-CE7A-4EB5-A245-632FE8A465F9</string>
+		</dict>
+		<key>89601441-A013-41FF-9A9E-39198702C7B2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>89601441-A013-41FF-9A9E-39198702C7B2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740602.38586605</real>
+			<key>timeStoppedRecording</key>
+			<real>570740607.07428706</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>89601441-A013-41FF-9A9E-39198702C7B2</string>
+		</dict>
+		<key>8FB84F00-033E-4B46-AE9E-E2899418AC4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FB84F00-033E-4B46-AE9E-E2899418AC4F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738377.33403206</real>
+			<key>timeStoppedRecording</key>
+			<real>570738384.18911397</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>8FB84F00-033E-4B46-AE9E-E2899418AC4F</string>
+		</dict>
+		<key>8FF0F634-7BF2-4CDE-8E5F-16E004D87BCA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8FF0F634-7BF2-4CDE-8E5F-16E004D87BCA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570739554.95516706</real>
+			<key>timeStoppedRecording</key>
+			<real>570739555.85804498</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>8FF0F634-7BF2-4CDE-8E5F-16E004D87BCA</string>
+		</dict>
+		<key>93616AC2-11FE-4C08-B022-8DEB5D5805EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>93616AC2-11FE-4C08-B022-8DEB5D5805EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740036.93568695</real>
+			<key>timeStoppedRecording</key>
+			<real>570740043.28202701</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>93616AC2-11FE-4C08-B022-8DEB5D5805EF</string>
+		</dict>
+		<key>940062B7-B5FF-4E9C-8205-53936D651A70</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>940062B7-B5FF-4E9C-8205-53936D651A70.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740276.00419295</real>
+			<key>timeStoppedRecording</key>
+			<real>570740280.83662701</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>940062B7-B5FF-4E9C-8205-53936D651A70</string>
+		</dict>
+		<key>97DC9521-4C51-481D-A540-BC7AA72B9D5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97DC9521-4C51-481D-A540-BC7AA72B9D5D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738431.22606897</real>
+			<key>timeStoppedRecording</key>
+			<real>570738436.09701705</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>97DC9521-4C51-481D-A540-BC7AA72B9D5D</string>
+		</dict>
+		<key>99EA0749-572F-4222-8259-AEF73122A27B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99EA0749-572F-4222-8259-AEF73122A27B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737562.88924694</real>
+			<key>timeStoppedRecording</key>
+			<real>570737563.87083995</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>99EA0749-572F-4222-8259-AEF73122A27B</string>
+		</dict>
+		<key>A2506531-90CE-44BD-88CF-0630290806E6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A2506531-90CE-44BD-88CF-0630290806E6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738589.897205</real>
+			<key>timeStoppedRecording</key>
+			<real>570738596.66453195</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>A2506531-90CE-44BD-88CF-0630290806E6</string>
+		</dict>
+		<key>A4988B3D-CEB1-42FF-AB97-0996F71948F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A4988B3D-CEB1-42FF-AB97-0996F71948F7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740060.79780602</real>
+			<key>timeStoppedRecording</key>
+			<real>570740066.92276597</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>A4988B3D-CEB1-42FF-AB97-0996F71948F7</string>
+		</dict>
+		<key>A541FA0B-B013-4A10-B4A8-CF4ECA9487EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A541FA0B-B013-4A10-B4A8-CF4ECA9487EB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737984.90918803</real>
+			<key>timeStoppedRecording</key>
+			<real>570737989.82552505</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>A541FA0B-B013-4A10-B4A8-CF4ECA9487EB</string>
+		</dict>
+		<key>ACBF3940-F16C-4151-9A49-328CFE2FDBBD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ACBF3940-F16C-4151-9A49-328CFE2FDBBD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742126.78149796</real>
+			<key>timeStoppedRecording</key>
+			<real>570742134.97553802</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>ACBF3940-F16C-4151-9A49-328CFE2FDBBD</string>
+		</dict>
+		<key>AF7379D3-5D67-4FA8-8AF7-4610CB706B80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AF7379D3-5D67-4FA8-8AF7-4610CB706B80.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570742287.43365204</real>
+			<key>timeStoppedRecording</key>
+			<real>570742295.30958402</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>AF7379D3-5D67-4FA8-8AF7-4610CB706B80</string>
+		</dict>
+		<key>B200EC0F-7DA1-4C00-8DC3-264C2E9E9FB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B200EC0F-7DA1-4C00-8DC3-264C2E9E9FB3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738103.85252404</real>
+			<key>timeStoppedRecording</key>
+			<real>570738109.20960903</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>B200EC0F-7DA1-4C00-8DC3-264C2E9E9FB3</string>
+		</dict>
+		<key>B712EE98-81C5-41C9-B9E0-CA5EB6C43539</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B712EE98-81C5-41C9-B9E0-CA5EB6C43539.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570736612.21117997</real>
+			<key>timeStoppedRecording</key>
+			<real>570736621.29574394</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>B712EE98-81C5-41C9-B9E0-CA5EB6C43539</string>
+		</dict>
+		<key>C00FC4C3-E16A-4A60-9CA5-4E7FF9F019E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C00FC4C3-E16A-4A60-9CA5-4E7FF9F019E2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570736912.85783303</real>
+			<key>timeStoppedRecording</key>
+			<real>570736920.25996995</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>C00FC4C3-E16A-4A60-9CA5-4E7FF9F019E2</string>
+		</dict>
+		<key>C4617EE9-4C3D-4038-B79E-9E75D0356DAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4617EE9-4C3D-4038-B79E-9E75D0356DAD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740230.76335001</real>
+			<key>timeStoppedRecording</key>
+			<real>570740231.540604</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>C4617EE9-4C3D-4038-B79E-9E75D0356DAD</string>
+		</dict>
+		<key>C7592A24-6ED9-4AA4-B75F-EECC53DCB653</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7592A24-6ED9-4AA4-B75F-EECC53DCB653.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740258.71637106</real>
+			<key>timeStoppedRecording</key>
+			<real>570740265.68635798</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>C7592A24-6ED9-4AA4-B75F-EECC53DCB653</string>
+		</dict>
+		<key>CB10A00D-FE30-4A84-B5C3-FCA2538337BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CB10A00D-FE30-4A84-B5C3-FCA2538337BB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570739011.94940805</real>
+			<key>timeStoppedRecording</key>
+			<real>570739019.06370103</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>CB10A00D-FE30-4A84-B5C3-FCA2538337BB</string>
+		</dict>
+		<key>CCFBDD37-F6EA-4BDC-98A8-2C489C2AF734</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCFBDD37-F6EA-4BDC-98A8-2C489C2AF734.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737574.26562703</real>
+			<key>timeStoppedRecording</key>
+			<real>570737575.07032502</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>CCFBDD37-F6EA-4BDC-98A8-2C489C2AF734</string>
+		</dict>
+		<key>D5798883-AE09-44E0-B22B-F62763493A95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5798883-AE09-44E0-B22B-F62763493A95.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737973.68569899</real>
+			<key>timeStoppedRecording</key>
+			<real>570737974.40843105</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>D5798883-AE09-44E0-B22B-F62763493A95</string>
+		</dict>
+		<key>D94E9CBC-5E90-4655-A63A-D0173F75ADF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D94E9CBC-5E90-4655-A63A-D0173F75ADF4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737915.07687795</real>
+			<key>timeStoppedRecording</key>
+			<real>570737916.45070899</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>D94E9CBC-5E90-4655-A63A-D0173F75ADF4</string>
+		</dict>
+		<key>E51ECE0E-A53E-426F-8B5C-FC3748F8B4E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E51ECE0E-A53E-426F-8B5C-FC3748F8B4E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570741568.95778799</real>
+			<key>timeStoppedRecording</key>
+			<real>570741582.49939096</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>E51ECE0E-A53E-426F-8B5C-FC3748F8B4E0</string>
+		</dict>
+		<key>EC8B9E90-9FDB-4D16-B5F2-DBDC3460B65A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC8B9E90-9FDB-4D16-B5F2-DBDC3460B65A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570738523.71143198</real>
+			<key>timeStoppedRecording</key>
+			<real>570738530.28480303</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>EC8B9E90-9FDB-4D16-B5F2-DBDC3460B65A</string>
+		</dict>
+		<key>ED322A01-734B-4C39-A07C-DB4CC5845B79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED322A01-734B-4C39-A07C-DB4CC5845B79.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570737802.20236194</real>
+			<key>timeStoppedRecording</key>
+			<real>570737807.59277201</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>ED322A01-734B-4C39-A07C-DB4CC5845B79</string>
+		</dict>
+		<key>ED7CC7F6-4E82-46C1-8473-87C5A95809C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED7CC7F6-4E82-46C1-8473-87C5A95809C8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740525.40537405</real>
+			<key>timeStoppedRecording</key>
+			<real>570740525.62988901</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>ED7CC7F6-4E82-46C1-8473-87C5A95809C8</string>
+		</dict>
+		<key>F7C5E128-DBE5-4A5D-86BD-E0C12F2139A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F7C5E128-DBE5-4A5D-86BD-E0C12F2139A2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoatSimTripToDick project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoatSimTripToDick</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>timeStartedRecording</key>
+			<real>570740289.77402902</real>
+			<key>timeStoppedRecording</key>
+			<real>570740290.04923904</real>
+			<key>title</key>
+			<string>Build GoatSimTripToDick</string>
+			<key>uniqueIdentifier</key>
+			<string>F7C5E128-DBE5-4A5D-86BD-E0C12F2139A2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
